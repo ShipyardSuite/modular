@@ -1,14 +1,66 @@
 {
 	"name": "modular",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"displayName": "Shipyard Modular",
 	"description": "Assortment of modular development components",
 	"unity": "2018.3",
 	"unityRelease": "0b5",
-	"keywords": [ "module", "manager" ],
+	"keywords": [ "module", "manager", "components" ],
 	"author": {
 		"name": "ShipyardSuite",
 		"email": "shipyardsuite@gmail.com",
 		"url": "https://github.com/ShipyardSuite/modular"
-	}
+	},
+	"samples": [
+		{
+			"displayName": "Sample for Dialog",
+			"description": "",
+			"path": "Samples~/Modules/Dialog/"
+		},
+		{
+			"displayName": "Sample for FSM",
+			"description": "",
+			"path": "Samples~/Modules/FSM/"
+		},
+		{
+			"displayName": "Sample for i18n",
+			"description": "",
+			"path": "Samples~/Modules/i18n"
+		},
+		{
+			"displayName": "Sample for Inventory",
+			"description": "",
+			"path": "Samples~/Modules/Inventory/"
+		},
+		{
+			"displayName": "Sample for Notifications",
+			"description": "",
+			"path": "Samples~/Modules/Notifications"
+		},
+		{
+			"displayName": "Sample for QuestSystem",
+			"description": "",
+			"path": "Samples~/Modules/QuestSystem"
+		},
+		{
+			"displayName": "Sample for SaveSystem",
+			"description": "",
+			"path": "Samples~/Modules/SaveSystem"
+		},
+		{
+			"displayName": "Sample for UI",
+			"description": "",
+			"path": "Samples~/UI"
+		},
+		{
+			"displayName": "Sample for Extensions",
+			"description": "",
+			"path": "Samples~/Extensions/"
+		},
+		{
+			"displayName": "Sample for Helpers",
+			"description": "",
+			"path": "Samples~/Helpers/"
+		}
+	]
 }
