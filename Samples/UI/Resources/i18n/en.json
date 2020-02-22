@@ -1,0 +1,61 @@
+{
+	"game": {
+		"loadingScrees": {
+			"message0": {
+				"header": "Game Tip 1",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+			},
+			"Message1": {
+				"header": "Game Tip 2",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+			},
+			"Message2": {
+				"header": "Game Tip 1",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+			},
+			"Message3": {
+				"header": "Game Tip 4",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+			},
+			"Message4": {
+				"header": "Game Tip 5",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+			}
+		},
+		"debug": {
+			"gameTime": "Game Time: {val}",
+			"gameMode": "Game Mode: {val}"
+		},
+		"menu": {
+			"versionInfo": "Game Version: {val}",
+			"pause": {
+				"resumeToGame": "Back to Game"
+			},
+			"welcome": {
+				"startGame": "Press RETURN to start"
+			},
+			"autosave": {
+				"message": "This Game supports Autosaving. Do not turn off the computer when this icon Appears."
+			},
+			"main": {
+				"menuNewGameButton": "New Game",
+				"menuContinueButton": "Continue Game",
+				"menuOptionsGameButton": "Options"
+			},
+			"newGame": {
+				"newGameHeader": "New Game",
+				"newGameEmpty": "Empty SaveGame",
+				"newGameStatus": "Game Progress:",
+				"newGameBack": "Back"
+			},
+			"options": {
+				"header": "Options",
+				"subHeaderGame": "Game",
+				"subHeaderAudio": "Audio",
+				"subHeaderVideo": "Video",
+				"subheaderControls":  "Controls",
+				"footer": "Press ESPACE to return"
+			}
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"test": {
+		"saveGame": {
+			"saveGameButton": "Save Game",
+			"loadGameButton": "Load Game",
+			"deleteGameButton": "Delete Game",
+			"infoHeader": "SaveGame",
+			"infoTimeStamp": "Timestamp",
+			"infoTestString": "TestString",
+			"infoPlayerPosition": "Player Position"
+		}
+	}
+}

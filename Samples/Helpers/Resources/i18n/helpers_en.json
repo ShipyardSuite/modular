@@ -1,0 +1,25 @@
+{
+	"test": {
+		"helpers": {
+			"attachUIToGameObject": {
+				"anchorPointString": "Anchorpoint"
+			},
+			"pulseText": {
+				"testString": "Pulsing String"
+			},
+			"rotateObject": {
+				"resumeRotationButton": "Resume Rotation",
+				"pauseRotationButton": "Pause Rotation"
+			},
+			"saveLoadIndicator": {
+				"fadeInButton": "Fade-Out Indicator",
+				"fadeOutButton": "Fade-In Indicator"
+			},
+			"timer": {
+				"resumeTimeButton": "Resume Time",
+				"pauseTimeButton": "Pause Time",
+				"gameTimeText": "Gametime: {val}"
+			}
+		}
+	}
+}

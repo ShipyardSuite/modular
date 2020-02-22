@@ -1,0 +1,17 @@
+{
+	"test": {
+		"i18n": {
+			"values": "Werte",
+			"stringToValue": "String zu Wert",
+			"valueToIntString": "Wert zu String (Int)",
+			"valueToFloatString": "Wert zu String (Float)",
+			"time": "Zeit",
+			"twelveHourClock": "Zwölfstunden Uhr",
+			"twentyFourHourClock": "Vierundzwanzigstunden Uhr",
+			"secondsToTime": "Sekunden zu Zeit",
+			"testString": "Mit Wert {val} innerhalb des Strings und <sprite=2> Sprite",
+			"languageGermanButton": "Deutsch",
+			"languageEnglishButton": "Englisch"
+		}
+	}
+}

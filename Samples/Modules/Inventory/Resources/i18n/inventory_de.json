@@ -1,0 +1,10 @@
+{
+	"test": {
+		"fsm": {
+			"gameModeString": "Spielmodus: {val}",
+			"gameTimeString": "Spielzeit: {val}",
+			"gameStateButton": "State: SPIEL",
+			"pauseStateButton": "State: PAUSE"
+		}
+	}
+}

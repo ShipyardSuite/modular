@@ -1,0 +1,61 @@
+{
+	"game": {
+		"loadingScreens": {
+			"message0": {
+				"header": "Spieltipp 1",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+			},
+			"message1": {
+				"header": "Spieltipp 2",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+			},
+			"message2": {
+				"header": "Spieltipp 3",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+			},
+			"message3": {
+				"header": "Spieltipp 4",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+			},
+			"message4": {
+				"header": "Spieltipp 5",
+				"description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+			}
+		},
+		"debug": {
+			"gameTime": "Spielzeit: {val}",
+			"gameMode": "Spielmodus: {val}"
+		},
+		"menu": {
+			"versionInfo": "Spielversion: {val}",
+			"pause": {
+				"resumeToGame": "Züruck zum Spiel"
+			},
+			"welcome": {
+				"startGame": "Drücke ENTER zum Starten"
+			},
+			"autosave": {
+				"message": "Dieses Spiel unterstützt automatisches Speichern. Schalte den Computer nicht aus, wenn diese Symbol erscheint."
+			},
+			"main": {
+				"menuNewGameButton": "Neues Spiel",
+				"menuContinueButton": "Spiel Fortsetzen",
+				"menuOptionsGameButton": "Optionen"
+			},
+			"newGame": {
+				"header": "Neues Spiel",
+				"empty": "Leerer Speicherstand",
+				"status": "Spielfortschritt:",
+				"back": "Zurück"
+			},
+			"options": {
+				"header": "Optionen",
+				"subHeaderGame": "Spiel",
+				"subHeaderAudio": "Audio",
+				"subHeaderVideo": "Video",
+				"subheaderControls": "Steuerung",
+				"footer": "Drücke ESPACE um zurückzukehren"
+			}
+		}
+	}
+}

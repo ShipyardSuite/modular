@@ -1,0 +1,13 @@
+{
+	"test": {
+		"saveGame": {
+			"saveGameButton": "Spiel Speichern",
+			"loadGameButton": "Spiel Laden",
+			"deleteGameButton": "Spiel Löschen",
+			"infoHeader": "Spielstand",
+			"infoTimeStamp": "Zeitstempel",
+			"infoTestString": "TestString",
+			"infoPlayerPosition": "Spielerposition"
+		}
+	}
+}
