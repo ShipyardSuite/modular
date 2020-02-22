@@ -1,0 +1,14 @@
+{
+	"name": "modular",
+	"version": "0.1.0",
+	"displayName": "Shipyard Modular",
+	"description": "Assortment of modular development components",
+	"unity": "2018.3",
+	"unityRelease": "0b5",
+	"keywords": [ "module", "manager" ],
+	"author": {
+		"name": "ShipyardSuite",
+		"email": "shipyardsuite@gmail.com",
+		"url": "https://github.com/ShipyardSuite/modular"
+	}
+}
