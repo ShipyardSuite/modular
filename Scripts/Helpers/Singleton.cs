@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Shipyard.Modular.Base
+namespace Shipyard.Modular.Helper
 {
 	public class Singleton<T> : MonoBehaviour where T : Component
 	{

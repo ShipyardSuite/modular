@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using UnityEngine;
 
-namespace Shipyard.Modular.Base
+namespace Shipyard.Modular.Helper
 {
 	public class SingletonScriptableObject<T> : ScriptableObject where T : ScriptableObject
 	{
