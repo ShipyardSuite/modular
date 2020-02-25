@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Shipyard.Modular.Inventory
 {
-	[CreateAssetMenu(menuName = "Game/Item")]
+	[CreateAssetMenu(menuName = "Shipyard/Modular/Item")]
 	public class Item : ScriptableObject
 	{
 		public string id;
